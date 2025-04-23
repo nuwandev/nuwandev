@@ -1,23 +1,72 @@
-<h1 align="center">Hi 👋, I'm Theekshana Nuwan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<!-- README.md for nuwandev -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tn-master&label=Profile%20views&color=0e75b6&style=flat" alt="tn-master" /> </p>
+<h1 align="center">Hey, I'm Theekshana — aka nuwandev 👋</h1>
 
-- 🌱 I’m currently learning **Software Engineering**
-
-- 👨‍💻 All of my projects are available at [Not published yet](Not published yet)
-
-- 📫 How to reach me **theekshanabro40@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/theekshana nuwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theekshana nuwan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nuwan tech bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwan tech bro" height="30" width="40" /></a>
+<p align="center">
+  🚀 Aspiring Full-Stack Developer & Self-Taught Coder (16 y/o) <br/>
+  💻 Currently mastering JavaScript, React, Node.js & more <br/>
+  📚 Building real-world projects & learning every single day
 </p>
 
-<br>
+---
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tn-master&theme=tokyonight) 
+### 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 👨‍💻 I’m on a mission to become a **top-tier full-stack developer**
+- 🧱 Currently focused on **JavaScript**, **React**, and **Node.js**
+- 🤖 I love integrating **AI tools** into real web projects
+- 🌱 I'm self-taught and document everything I learn
+- ⚙️ I build tools that are **modular, useful**, and **clean**
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+
+---
+
+### 📌 Highlight Projects
+
+> (Pinned to my GitHub profile – more coming soon!)
+
+- 🔧 `notionpilot-ai` – AI-powered productivity tool (in dev)
+- 💸 `ecommerce-pricing-system` – Dynamic pricing system for modern stores
+- 📘 `dev-roadmap` – My structured full-stack learning journey (public!)
+- 🧪 `tn-lab` – Personal sandbox for frontend & backend experiments
+
+---
+
+### 🌱 Currently Learning
+
+- 🔹 Full-stack patterns & RESTful APIs
+- 🔹 MongoDB, Express.js, and server-side logic
+- 🔹 Clean code, modular project structure, and deployment
+
+---
+
+### 🔗 Connect with Me
+
+<p>
+  <a href="https://github.com/nuwandev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/theekshana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <!-- Add your blog or portfolio link here when ready -->
+</p>
+
+---
+
+### ⚡ Fun Fact
+I type 70–90 WPM, live in the terminal, and I’m building every day — one brick at a time 💪
+
+---
+
+> *“Don’t wait to be great. Build, break, learn, and repeat.”*
+
+
