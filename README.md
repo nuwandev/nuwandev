@@ -42,11 +42,9 @@
 
 ---
 
-#### Coming Up Next (Learning):
+#### Coming Up (Learning):
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=fff&style=flat)
-![Playwright](https://img.shields.io/badge/-Playwright-2D2D2D?logo=playwright&logoColor=green&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
@@ -58,6 +56,8 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=fff&style=flat)
+![Playwright](https://img.shields.io/badge/-Playwright-2D2D2D?logo=playwright&logoColor=green&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=fff&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=fff&style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff&style=flat)
