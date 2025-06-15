@@ -38,14 +38,14 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=flat)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 
 
 ---
 
 #### Coming Up (Learning):
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat)
