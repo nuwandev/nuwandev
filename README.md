@@ -64,16 +64,6 @@
 
 ---
 
-### 📌 Highlight Projects
-
-> Pinned on GitHub – real projects coming soon!
-
-- 🔧 `notionpilot-ai` – AI-powered productivity tool *(coming soon)*
-- 💸 `ecommerce-pricing-system` – Modular pricing system *(coming soon)*
-- 💸 `Cursor Customizer` – Full Customization Tool*
-
----
-
 ### 🔗 Connect with Me
 
 <p>
