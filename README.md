@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Theekshana Nuwan (aka nuwandev) 👋</h1>
+<h1 align="center">I'm Theekshana Nuwan (aka nuwandev) 👋</h1>
 <p align="center">
-  Self-Taught Full Stack Developer • TypeScript • Next.js • Tailwind CSS • Node.js
+  Self-Taught Full-Stack Web Developer • TypeScript • Next.js • Tailwind CSS • Node.js
 </p>
 
 ---
@@ -42,7 +42,7 @@ I learn by building, and I don't follow trends blindly — I pick stable, future
 
 ---
 
-### 🧠 Tech Stack
+### 🧰 Tools & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode" />
