@@ -30,13 +30,13 @@ I learn by building, and I don't follow trends blindly — I pick stable, future
 ### 🚧 Projects ideas in Progress
 
 - 🛍️ **Modular E-Commerce Platform**  
-  A flexible, full-stack solution with feature-based pricing and real business use in mind.
+  Full-stack e-commerce platform built from scratch. Includes custom backend (auth, products, orders), admin dashboard, and modular frontend
 
 - 📅 **AI SmartScheduler (LifePilot)**  
   A productivity tool powered by GPT with calendar sync and smart goal tracking.
 
-- ✅ **Pro-Level Todo App**  
-  A modular, mobile-first, clean UI todo app with smooth UX and real-world logic — more than just tasks.
+- ✅ **Modular Task Manager**  
+  Task app with clean architecture, mobile-first design, localStorage sync, and smooth UX built using React + TypeScript + Tailwind CSS.
 
 > ⚠️ These are currently under development — only sharing limited details for now.
 
