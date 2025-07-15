@@ -1,48 +1,53 @@
-<h1 align="center">I'm Theekshana Nuwan (aka nuwandev) 👋</h1>
+<h1 align="center">Hi, I'm Theekshana Nuwan</h1>
 <p align="center">
-  Self-Taught Full-Stack Web Developer • TypeScript • Next.js • Tailwind CSS • Node.js
+  Aspiring Full-Stack Web Developer • TypeScript • React • Node.js • Clean Code Enthusiast
 </p>
+
+<div align="center">
+  <a href="https://github.com/nuwandev">GitHub</a> • 
+  <a href="mailto:theekshanabro40@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/nuwandev">LinkedIn</a>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **16-year-old self-taught full stack developer** from Sri Lanka and started coding in 2021.
+I'm a **16-year-old self-taught developer** from Sri Lanka, passionate about building scalable and clean web applications. I’ve been coding since 2021 and I’m currently focused on mastering modern full-stack technologies by building real-world apps from scratch.
 
-I specialize in building clean, scalable, and modern web applications using:
+I believe in **deep learning**, clean architecture, and writing code that’s maintainable and purposeful.
 
-- **Frontend**
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**  
 `React` • `Next.js` • `Tailwind CSS` • `TypeScript` • `Framer Motion`
 
-- **Backend**
+**Backend**  
 `Node.js` • `Express.js` • `REST APIs`
 
-- **Databases**
-`MySQL` • `MongoDB (Mongoose)` • `PostgreSQL (Prisma)`
+**Databases**  
+`MongoDB (Mongoose)` • `MySQL` • `PostgreSQL (Prisma)`
 
-- **Tools & Dev Experience**
-`Git` • `GitHub` • `VS Code` • `Postman` • `Figma` • `Vercel` • `Netlify`
-
-I learn by building, and I don't follow trends blindly — I pick stable, future-ready tech and mastering it deeply these days.
+**Other Tools**  
+`Git` • `GitHub` • `Postman` • `Figma` • `VS Code` • `Vercel` • `Netlify`
 
 ---
 
-### 🚧 Projects ideas in Progress
+### 🚧 In Progress
 
 - 🛍️ **Modular E-Commerce Platform**  
-  Full-stack e-commerce platform built from scratch. Includes custom backend (auth, products, orders), admin dashboard, and modular frontend
-
-- 📅 **AI SmartScheduler (LifePilot)**  
-  A productivity tool powered by GPT with calendar sync and smart goal tracking.
+  A full-stack e-commerce platform built from scratch with modular architecture, authentication, and admin dashboard. *(Work in Progress)*
 
 - ✅ **Modular Task Manager**  
-  Task app with clean architecture, mobile-first design, localStorage sync, and smooth UX built using React + TypeScript + Tailwind CSS.
+  A clean and responsive task app built using React, TypeScript, and Tailwind CSS. Features localStorage sync and a mobile-first layout.
 
-> ⚠️ These are currently under development — only sharing limited details for now.
+> 🧪 These projects are being built step-by-step. More coming soon.
 
 ---
 
-### 🧰 Tools & Technologies
+### 🔧 Tools I Use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode" />
@@ -53,11 +58,11 @@ I learn by building, and I don't follow trends blindly — I pick stable, future
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nuwandev/)
-- 📬 Email: theekshanabro40@gmail.com
+- 📧 theekshanabro40@gmail.com
 - 🧑‍💻 [GitHub](https://github.com/nuwandev)
 
 ---
 
 <p align="center">
-  🚀 Hungry to learn. Obsessed with clean code. Always building.
+  ⚡ Always learning. Always building. Focused on clean code and real impact.
 </p>
