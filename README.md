@@ -35,7 +35,7 @@ I believe in **deep learning**, clean architecture, and writing code that’s ma
 
 ---
 
-### 🚧 In Progress
+### 🚧 Actively Developing
 
 - 🛍️ **Modular E-Commerce Platform**  
   A full-stack e-commerce platform built from scratch with modular architecture, authentication, and admin dashboard. *(Work in Progress)*
