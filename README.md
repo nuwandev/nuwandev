@@ -70,6 +70,16 @@ Photoshop • Figma
 
 ---
 
+### 💡 Development Philosophy
+- Fundamentals-first approach
+- Progress over perfection
+- Documentation as a practice
+- Iterative improvement
+
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+---
+
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nuwandev/)
@@ -78,9 +88,4 @@ Photoshop • Figma
 
 ---
 
-### 🧠 Philosophy
-
-I believe in deep learning, not shortcuts. I’m not just chasing trends — I’m mastering the fundamentals that power the web.
-
-> “Code with clarity. Build with purpose.”
-
+<p align="center"> <i>Always learning, always building.</i> 🧑‍💻 </p>
