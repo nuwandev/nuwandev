@@ -17,41 +17,52 @@ I'm a **16-year-old self-taught developer** from Sri Lanka, passionate about bui
 
 I believe in **deep learning**, clean architecture, and writing code that’s maintainable and purposeful.
 
+### 🎯 What I Can Do for You
+
+- Build responsive, user-friendly web apps from scratch
+- Write clean, maintainable, and scalable code
+- Integrate REST APIs and design backend architecture
+- Collaborate using Git and manage real-world projects
+
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Tech Stack
 
 **Frontend**  
-`React` • `Next.js` • `Tailwind CSS` • `TypeScript` • `Framer Motion`
+React • Next.js • Tailwind CSS • TypeScript • Framer Motion
 
 **Backend**  
-`Node.js` • `Express.js` • `REST APIs`
+Node.js • Express.js • RESTful APIs
 
 **Databases**  
-`MongoDB (Mongoose)` • `MySQL` • `PostgreSQL (Prisma)`
+MongoDB (Mongoose) • MySQL • PostgreSQL (Prisma)
 
-**Other Tools**  
-`Git` • `GitHub` • `Postman` • `Figma` • `VS Code` • `Vercel` • `Netlify`
+**Developer Tools**  
+Git • GitHub • Postman • VS Code • Vercel • Netlify • Figma Command Line (bash) • Linux basics
+
+**Frontend Fundamentals & Styling (masted)**  
+HTML5 • CSS3 • JavaScript • Bootstrap
+
+**Design**  
+Photoshop • Figma
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode,figma" />
+</div>
 
 ---
 
 ### 🚧 Actively Developing
 
 - 🛍️ **Modular E-Commerce Platform**  
-  A full-stack e-commerce platform built from scratch with modular architecture, authentication, and admin dashboard. *(Work in Progress)*
+  A full-stack e-commerce platform built from scratch with modular architecture, authentication, and an admin dashboard. *(Work in Progress)*
 
 - ✅ **Modular Task Manager**  
-  A clean and responsive task app built using React, TypeScript, and Tailwind CSS. Features localStorage sync and a mobile-first layout.
+  A clean and responsive task app built using React, TypeScript, and Tailwind CSS. Features include localStorage sync and a mobile-first layout.
 
 > 🧪 These projects are being built step-by-step. More coming soon.
-
----
-
-### 🔧 Tools I Use
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode" />
-</div>
 
 ---
 
@@ -63,6 +74,9 @@ I believe in **deep learning**, clean architecture, and writing code that’s ma
 
 ---
 
-<p align="center">
-  ⚡ Always learning. Always building. Focused on clean code and real impact.
-</p>
+### 🧠 Philosophy
+
+I believe in deep learning, not shortcuts. I’m not just chasing trends — I’m mastering the fundamentals that power the web.
+
+> “Code with clarity. Build with purpose.”
+
