@@ -13,47 +13,56 @@
 
 ### 👨‍💻 About Me
 
-I'm a **16-year-old self-taught developer** from Sri Lanka, deeply passionate about web technologies. I started coding 3+ years ago, and currently focused on mastering full-stack development through hands-on learning. My approach emphasizes : 
+I'm a **16-year-old self-taught developer** from Sri Lanka, passionate about web development and building cool things with code. I started learning 3+ years ago and right now I'm fully focused on becoming a strong full-stack developer.  
 
-- 🧠 **Deep understanding** over surface-level knowledge
-- ✨ **Clean, maintainable code** as a priority
-- 🚀 **Progressive skill-building** through project-based learning
+Currently, I'm following the **ICM Java Course at iCET Institute** while learning modern full-stack technologies on my own.
 
-> _"Good code is its own best documentation."_ - Steve McConnell
+My learning style:
+- 🧠 Understanding the **core fundamentals** before jumping into frameworks  
+- ✨ Writing **clean, readable code** that makes sense  
+- 🚀 Building **real projects** to truly learn  
 
-### 🎯 What I Can Do for You
+> _"Good code is its own best documentation."_ — Steve McConnell
 
-- Build responsive, user-friendly web apps from scratch
-- Write clean, maintainable, and scalable code
-- Integrate REST APIs and design backend architecture
-- Collaborate using Git and manage real-world projects
+---
+
+### 🧠 What I Can Build
+
+- Clean, responsive web apps with React & Tailwind  
+- Backend servers using Node.js, Express, and REST APIs  
+- Integrate databases like MongoDB, MySQL, or PostgreSQL  
+- Work with Git and manage real-world codebases on GitHub  
 
 ---
 
 ### 🛠️ Core Tech Stack
 
 **Frontend**  
-React • Next.js • Tailwind CSS • TypeScript • Framer Motion
+React • Next.js • Tailwind CSS • TypeScript • Framer Motion  
 
 **Backend**  
-Node.js • Express.js • RESTful APIs
+Node.js • Express.js • RESTful APIs  
 
 **Databases**  
-MongoDB (Mongoose) • MySQL • PostgreSQL (Prisma)
+MongoDB (Mongoose) • MySQL • PostgreSQL (Prisma)  
 
 **Developer Tools**  
-Git • GitHub • Postman • VS Code • Vercel • Netlify • Figma Command Line (bash) • Linux basics
+Git • GitHub • Postman • VS Code • Vercel • Netlify • Figma  
+Command Line (bash) • Linux Basics  
 
-**Frontend Fundamentals & Styling**  
+**Web Fundamentals & Styling**  
 HTML5 • CSS3 • JavaScript (Mastered)
 
 **Design**  
-Photoshop • Figma
+Figma • Photoshop  
 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode,figma" />
+  <img 
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode,figma" 
+    alt="Tech Stack Icons" 
+  />
 </div>
 
 ---
@@ -61,31 +70,41 @@ Photoshop • Figma
 ### 🚧 Actively Developing
 
 - 🛍️ **Modular E-Commerce Platform**  
-  A full-stack e-commerce platform built from scratch with modular architecture, authentication, and an admin dashboard. *(Work in Progress)*
+  Full-stack e-commerce app from scratch with modular structure, authentication, and dashboard. *(Work in Progress)*
 
 - ✅ **Modular Task Manager**  
-  A clean and responsive task app built using React, TypeScript, and Tailwind CSS. Features include localStorage sync and a mobile-first layout.
+  Task app using React, TypeScript, and Tailwind. Features include localStorage sync and mobile-first design.
 
-> 🧪 These projects are being built step-by-step. More coming soon.
+> 🧪 These are step-by-step builds. More projects coming soon.
+
+---
+
+### 📚 Currently Learning
+
+- Node.js & Express backend development  
+- Advanced React (hooks, state management, project architecture)  
+- Type-safe backend patterns  
+- Java programming via the ICM course at iCET  
 
 ---
 
 ### 💡 Development Philosophy
-- Fundamentals-first approach
-- Progress over perfection
-- Documentation as a practice
-- Iterative improvement
 
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+- Fundamentals > shortcuts  
+- Real code > tutorials  
+- Progress over perfection  
+- Learn → Build → Repeat  
+
+> _"The only way to learn a new programming language is by writing programs in it."_ — Dennis Ritchie
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nuwandev/)
-- 📧 theekshanabro40@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nuwandev/)  
+- 📧 theekshanabro40@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/nuwandev)
 
 ---
 
-<p align="center"> <i>Always learning, always building.</i> 🧑‍💻 </p>
+<p align="center"><i>Still learning. Still building. Never stopping.</i> 🧑‍💻</p>
