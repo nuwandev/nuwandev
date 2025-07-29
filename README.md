@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Theekshana Nuwan</h1>
+<h1 align="center">Hi, I'm Theekshana Nuwan 👋</h1>
 <p align="center">
-  Aspiring Full-Stack Web Developer • TypeScript • React • Node.js • Clean Code Enthusiast
+  Passionate Full-Stack Learner • TypeScript • React • Node.js • Clean Code Advocate
 </p>
 
 <div align="center">
