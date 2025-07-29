@@ -13,9 +13,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **16-year-old self-taught developer** from Sri Lanka, passionate about building scalable and clean web applications. I’ve been coding since 2021 and I’m currently focused on mastering modern full-stack technologies by building real-world apps from scratch.
+I'm a **16-year-old self-taught developer** from Sri Lanka, deeply passionate about web technologies. I started coding 3+ years ago, and currently focused on mastering full-stack development through hands-on learning. My approach emphasizes : 
 
-I believe in **deep learning**, clean architecture, and writing code that’s maintainable and purposeful.
+- 🧠 **Deep understanding** over surface-level knowledge
+- ✨ **Clean, maintainable code** as a priority
+- 🚀 **Progressive skill-building** through project-based learning
+
+> _"Good code is its own best documentation."_ - Steve McConnell
 
 ### 🎯 What I Can Do for You
 
@@ -40,8 +44,8 @@ MongoDB (Mongoose) • MySQL • PostgreSQL (Prisma)
 **Developer Tools**  
 Git • GitHub • Postman • VS Code • Vercel • Netlify • Figma Command Line (bash) • Linux basics
 
-**Frontend Fundamentals & Styling (masted)**  
-HTML5 • CSS3 • JavaScript • Bootstrap
+**Frontend Fundamentals & Styling**  
+HTML5 • CSS3 • JavaScript (Mastered)
 
 **Design**  
 Photoshop • Figma
