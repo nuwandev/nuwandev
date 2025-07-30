@@ -15,7 +15,7 @@
 
 I'm a **16-year-old self-taught developer** from Sri Lanka, passionate about web development and building cool things with code. I started learning 3+ years ago and right now I'm fully focused on becoming a strong full-stack developer.  
 
-Currently, I'm following the **ICM Java Course at iCET Institute** while learning modern full-stack technologies on my own.
+Currently, I'm following the **ICM Course at iCET Institute** while learning modern full-stack technologies on my own.
 
 My learning style:
 - 🧠 Understanding the **core fundamentals** before jumping into frameworks  
