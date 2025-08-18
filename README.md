@@ -20,11 +20,11 @@
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React • Next.js • Tailwind CSS • TypeScript  
-**Backend:** Node.js • Express.js • REST APIs  
-**Databases:** MongoDB • MySQL • PostgreSQL  
-**Tools:** Git • GitHub • VS Code • Postman • Figma  
-**Core Skills:** HTML • CSS • JavaScript  
+- **Frontend:** React • Next.js • Tailwind CSS • TypeScript  
+- **Backend:** Node.js • Express.js • REST APIs  
+- **Databases:** MongoDB • MySQL • PostgreSQL  
+- **Tools:** Git • GitHub • VS Code • Postman • Figma  
+- **Core Skills:** HTML • CSS • JavaScript  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode,figma" />
