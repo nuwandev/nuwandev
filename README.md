@@ -26,30 +26,59 @@
 - **Tools:** Git • GitHub • VS Code • Postman • Figma  
 - **Core Skills:** HTML • CSS • JavaScript  
 
+---
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,html,css,git,vscode,figma" />
+
+  <!-- Row 1: Core language -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </div>
+
+  <!-- Row 2: Languages -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=java" />
+  </div>
+
+  <!-- Row 3: Frontend + Backend frameworks -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=express" />
+  </div>
+
+  <!-- Row 4: Databases -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=postgresql" />
+  </div>
+
+  <!-- Row 5: Styling + Markup -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </div>
+
+  <!-- Row 6: Tools -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </div>
+
 </div>
 
 ---
 
-## 🚧 Current Projects
-- 🛍️ **Modular E-Commerce Platform** — Full-stack app with modular features, authentication, and dashboard *(WIP)*  
-- ✅ **Task Manager App** — React + Tailwind with localStorage sync & mobile-first design  
-
----
-
 ## 📚 Learning
-- Node.js & Express backend development  
-- Advanced React (state management & architecture)  
+- Backend development  
+- Advanced React & Next.js
 - Type-safe backend patterns with TypeScript  
-- Java programming via the ICM course
-
----
-
-## 📫 Connect
-💼 [LinkedIn](https://linkedin.com/in/nuwandev)  
-📧 theekshanabro40@gmail.com  
-🧑‍💻 [GitHub](https://github.com/nuwandev)
+- Java programming via the ICD course
 
 ---
 
