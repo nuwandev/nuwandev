@@ -59,18 +59,6 @@ Frontend (React + TypeScript + Tailwind) and **Docker-based containerization** a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nuwandev&show_icons=true&theme=transparent" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nuwandev&theme=transparent" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwandev&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🔍 Current Activities
 - Building an **industry-grade Customer Management System**
 - Strengthening **Spring Boot + backend architecture**
