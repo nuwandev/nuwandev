@@ -37,35 +37,6 @@ Git • GitHub • Docker • Postman • Linux • Nginx
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Blog API
-Production-style REST API for a blogging platform with authentication, authorization, and scalable backend architecture.
-
-**Tech:** Node.js, Express, TypeScript, MongoDB, JWT, Cloudinary  
-🔗 https://github.com/nuwandev/blog-api
-
----
-
-### 🏢 Customer Management System
-A **full-stack business application** is being built with a backend-first, industry-grade approach.
-
-Currently focused on a robust **Spring Boot backend** with clean architecture, validation, and service-layer design.  
-Frontend (React + TypeScript + Tailwind) and **Docker-based containerization** are planned next to make the system deployment-ready.
-
-**Tech (current):** Java, Spring Boot, JPA, MySQL  
-**Planned:** React, TypeScript, Tailwind CSS, Docker  
-🔗 https://github.com/nuwandev/customer-management-system
-
----
-
-## 🔍 Current Activities
-- Building an **industry-grade Customer Management System**
-- Strengthening **Spring Boot + backend architecture**
-- Improving **system design and API quality**
-
----
-
 ## 🤝 Connect With Me
 - LinkedIn: https://linkedin.com/in/nuwandev  
 - Email: theekshanabro40@gmail.com
