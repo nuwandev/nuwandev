@@ -1,42 +1,58 @@
-<h1 align="center">Hi, I'm Theekshana Nuwan 👋</h1>
+<h1 align="center">Theekshana Nuwan</h1>
 
 <p align="center">
-Backend-leaning Full-Stack Developer • Node.js (TypeScript) • Java / Spring Boot
+Full-Stack Engineer • TypeScript • Java • Backend & Platform Systems
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/nuwandev">LinkedIn</a> •
-<a href="mailto:theekshanabro40@gmail.com">Email</a>
+<a href="mailto:theekshana.nuwan.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I build **production-style backend systems** with a strong focus on clean architecture, authentication, and real-world API design.  
-Comfortable working across the stack, but I specialize in **backend engineering with Node.js and Java**.  
-Currently focused on building **industry-ready systems**, not tutorials.
+## Focus
+I build production systems across backend, frontend, and cloud — with emphasis on clean architecture, scalable APIs, and deployment-ready systems.
+
+Currently working with:
+- Next.js + FastAPI (production applications)
+- Spring Boot (personal + systems practice)
+- AWS (cloud infrastructure & deployment)
+- DevOps workflows (Docker, CI/CD, Kubernetes fundamentals)
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**  
-TypeScript • Java • JavaScript
-
-**Backend**  
-Node.js • Express.js • Spring Boot • REST APIs • JWT Auth
-
-**Frontend**  
-React • Next.js • Tailwind CSS
-
-**Databases**  
-MongoDB • MySQL • PostgreSQL
-
-**Tools & Platforms**  
-Git • GitHub • Docker • Postman • Linux • Nginx
+## Engineering Scope
+- Backend APIs (FastAPI, Spring Boot)
+- Full-stack web apps (Next.js)
+- Cloud deployments (AWS)
+- Containerized services (Docker)
+- CI/CD pipelines (Jenkins, GitHub Actions)
+- System design fundamentals (scaling, auth, data flow)
 
 ---
 
-## 🤝 Connect With Me
-- LinkedIn: https://linkedin.com/in/nuwandev  
-- Email: theekshanabro40@gmail.com
+## Languages
+TypeScript • Java • Python • JavaScript
+
+---
+
+## DevOps Path
+Actively progressing through:
+- Kubernetes
+- Jenkins pipelines
+- AWS architecture
+- Linux system operations
+
+(KodeKloud DevOps track + 100-day challenge)
+
+---
+
+## Platforms & Tools
+Git • Docker • Nginx • Linux • Postman • AWS
+
+---
+
+## Contact
+LinkedIn: linkedin.com/in/nuwandev  
+Email: theekshana.nuwan.dev@gmail.com
