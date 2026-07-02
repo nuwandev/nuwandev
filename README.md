@@ -1,16 +1,3 @@
-<h1 align="center">Theekshana Nuwan</h1>
-
-<p align="center">
-Full-Stack Engineer • TypeScript • Java • Backend & Platform Systems
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/nuwandev">LinkedIn</a> •
-<a href="mailto:theekshana.nuwan.dev@gmail.com">Email</a>
-</p>
-
----
-
 ## Focus
 I build production systems across backend, frontend, and cloud — with emphasis on clean architecture, scalable APIs, and deployment-ready systems.
 
