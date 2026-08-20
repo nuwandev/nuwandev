@@ -1,45 +1,23 @@
-## Focus
-I build production systems across backend, frontend, and cloud — with emphasis on clean architecture, scalable APIs, and deployment-ready systems.
+## Engineering
 
-Currently working with:
-- Next.js + FastAPI (production applications)
-- Spring Boot (personal + systems practice)
-- AWS (cloud infrastructure & deployment)
-- DevOps workflows (Docker, CI/CD, Kubernetes fundamentals)
+**Fintech · Backend Systems · Full-Stack Applications · Platform Engineering**
 
----
+Building systems across the stack — with a focus on **backend architecture, APIs, cloud infrastructure, and reliable delivery**.
 
-## Engineering Scope
-- Backend APIs (FastAPI, Spring Boot)
-- Full-stack web apps (Next.js)
-- Cloud deployments (AWS)
-- Containerized services (Docker)
-- CI/CD pipelines (Jenkins, GitHub Actions)
-- System design fundamentals (scaling, auth, data flow)
+### Stack
 
----
+**Languages**
+`Java` `TypeScript` `Python` `JavaScript`
 
-## Languages
-TypeScript • Java • Python • JavaScript
+**Application**
+`Spring Boot` `Next.js` `React` `FastAPI` `Node.js`
 
----
+**Data & APIs**
+`PostgreSQL` `MySQL` `MongoDB` `REST` `JWT`
 
-## DevOps Path
-Actively progressing through:
-- Kubernetes
-- Jenkins pipelines
-- AWS architecture
-- Linux system operations
+**Infrastructure**
+`AWS` `Terraform` `Docker` `Kubernetes` `Jenkins` `Linux` `Nginx`
 
-(KodeKloud DevOps track + 100-day challenge)
+### Engineering Interests
 
----
-
-## Platforms & Tools
-Git • Docker • Nginx • Linux • Postman • AWS
-
----
-
-## Contact
-LinkedIn: linkedin.com/in/nuwandev  
-Email: theekshana.nuwan.dev@gmail.com
+`System Design` · `API Security` · `Scalability` · `CI/CD` · `Cloud Infrastructure` · `Platform Engineering`
