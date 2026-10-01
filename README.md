@@ -1,23 +1,28 @@
 ## Engineering
 
-**Fintech · Backend Systems · Full-Stack Applications · Platform Engineering**
+**Fintech · Banking Systems · Backend Systems · Full-Stack Applications · Platform Engineering · Infrastructure Automation**
 
-Building systems across the stack — with a focus on **backend architecture, APIs, cloud infrastructure, and reliable delivery**.
+Software engineer working on **production fintech and banking systems**, with a focus on **backend architecture, infrastructure, automation, and reliable delivery**.
 
 ### Stack
 
-**Languages**
-`Java` `TypeScript` `Python` `JavaScript`
+**Languages**  
+`Java` `TypeScript` `JavaScript` `Python` `Go` `Dart`
 
-**Application**
-`Spring Boot` `Next.js` `React` `FastAPI` `Node.js`
+**Backend**  
+`Spring Boot` `Node.js` `Express` `FastAPI`
 
-**Data & APIs**
-`PostgreSQL` `MySQL` `MongoDB` `REST` `JWT`
+**Frontend**  
+`Next.js` `React` `Tailwind CSS`
 
-**Infrastructure**
-`AWS` `Terraform` `Docker` `Kubernetes` `Jenkins` `Linux` `Nginx`
+**Data**  
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-### Engineering Interests
+**APIs & Security**  
+`REST` `JWT` `OpenAPI`
 
-`System Design` · `API Security` · `Scalability` · `CI/CD` · `Cloud Infrastructure` · `Platform Engineering`
+**Cloud & Infrastructure**  
+`AWS` `Docker` `Kubernetes` `VMware Tanzu` `Terraform` `Linux` `Nginx`
+
+**CI/CD & Observability**  
+`Jenkins` `GitHub Actions` `Harbor` `Prometheus` `Grafana`
